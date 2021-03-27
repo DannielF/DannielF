@@ -1,5 +1,5 @@
 #  👋 Hi, I’m @DannielF
---------------------------------------------
+
 
 - 👀 I’m interested in Frontend and web development profiles
 - 🌱 I’m currently learning Python, development process
