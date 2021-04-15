@@ -11,7 +11,7 @@
 
 * LinkedIn - [Daniel Granados](https://www.linkedin.com/in/dannielf-devsoftware/)
 * Twitter - [@DannielFG](https://twitter.com/DannielFG)
-* Portfolio - [DannielF-dev](https://dannielf.github.io/Portfolio-frontend/)(In-progress)
+* Portfolio - [DannielF-dev](https://dannielf.github.io/Portfolio-frontend/) (In-progress)
 
 
 <!---
