@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Frontend and web development profiles
-- 🌱 I’m currently learning Python, development process
+- 🌱 I’m currently learning Python, development process and everything I can
 - 💞️ I’m looking to collaborate on whatever you need, no doubt in contact me
 - 📫 How to reach me, see my portfolio and follow me.
 
@@ -11,7 +11,7 @@
 
 * LinkedIn - [Daniel Granados](https://www.linkedin.com/in/dannielf-devsoftware/)
 * Twitter - [@DannielFG](https://twitter.com/DannielFG)
-* Portfolio - [DannielF-dev](https://dannielf.github.io/Portfolio-frontend/) (In-progress)
+* Portfolio - [DannielF-dev](https://dannielf.github.io/Portfolio-frontend/) (Improving every day)
 
 
 <!---
