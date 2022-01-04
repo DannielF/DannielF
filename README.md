@@ -1,11 +1,11 @@
 #  👋 Hi, I’m @DannielF
 
-Developer focused on providing the best accessibility and user experiences, working with technologies such as JavaScript, React.js, vue.js. In addition to providing logic and adaptability to applications with Node.js, Python, Django.
+Developer focused on providing the best accessibility and user experiences, working with technologies such as JavaScript, React.js, vue.js. In addition to providing logic and adaptability to applications with Node.js, Python.
 
 
-- 👀 I’m interested in Frontend and web development profiles
+- 👀 I’m interested in Backend and Frontend profiles.
 - 🌱 I’m currently mastering Python, development process.
-- 💞️ I’m looking to collaborate on whatever you need, no doubt in contact me
+- 💞️ I’m looking to collaborate on whatever you need, no doubt in contact me.
 - 📫 How to reach me, see my portfolio and follow me.
 
 
