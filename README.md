@@ -1,10 +1,10 @@
 #  👋 Hi, I’m @DannielF
 
-Developer focused on providing the best accessibility and user experiences, working with technologies such as JavaScript, vue.js. In addition to providing logic and adaptability to applications with Node.js, Java(Spring).
+Developer focused on providing the best accessibility and user experiences, working with technologies such as JavaScript, Angular, React. In addition to providing logic and adaptability to applications with Node.js, Java (Spring Boot).
 
 
 - 👀 I’m interested in Backend and Frontend profiles.
-- 🌱 I’m currently mastering Java, SDLC.
+- 🌱 I’m currently mastering Nest, GraphQL.
 - 💞️ I’m looking to collaborate on whatever you need, no doubt in contact me.
 - 📫 How to reach me, see my portfolio and follow me.
 
