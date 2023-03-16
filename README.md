@@ -4,7 +4,6 @@ Developer focused on providing the best accessibility and user experiences, work
 
 
 - 👀 I’m interested in Backend and Frontend profiles.
-- 🌱 I’m currently mastering Nest, GraphQL.
 - 💞️ I’m looking to collaborate on whatever you need, no doubt in contact me.
 - 📫 How to reach me, see my portfolio and follow me.
 
