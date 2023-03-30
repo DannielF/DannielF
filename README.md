@@ -5,7 +5,7 @@ Software developer with a strong focus on creating user-friendly and accessible 
 In addition to technical expertise, they are a proactive problem-solver with great attention to detail. They are comfortable working collaboratively as part of a team or taking ownership of individual projects. Committed to staying up-to-date with the latest industry trends and best practices, they are always looking for new ways to improve their skills and deliver better outcomes for their clients.
 
 
-- 👀 I’m interested in Backend and Frontend profiles.
+- 👀 I’m interested in Backend and ML/AI profiles.
 - 💞️ I’m looking to collaborate on whatever you need, no doubt in contact me.
 - 📫 How to reach me, see my portfolio and follow me.
 
