@@ -14,7 +14,6 @@ In addition to technical expertise, they are a proactive problem-solver with gre
 
 * LinkedIn - [Daniel Granados](https://www.linkedin.com/in/dannielf-devsoftware/)
 * Twitter - [@DannielFG](https://twitter.com/DannielFG)
-* Portfolio - [DannielF-dev](https://dannielfg-portfolio.webflow.io/)
 
 
 <!---
