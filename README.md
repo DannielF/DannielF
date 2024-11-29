@@ -1,14 +1,9 @@
 #  👋 Hi, I’m @DannielF
 
-Software developer with a strong focus on creating user-friendly and accessible applications. Knowledgeable in a wide range of technologies including Angular, React, Node, and Java, with experience in Mambu core banking. This developer has a track record of delivering high-quality solutions that meet the needs of end-users.
-
-In addition to technical expertise, they are a proactive problem-solver with great attention to detail. They are comfortable working collaboratively as part of a team or taking ownership of individual projects. Committed to staying up-to-date with the latest industry trends and best practices, they are always looking for new ways to improve their skills and deliver better outcomes for their clients.
-
+Software developer with 3 years of experience in full-stack development, delivering impactful solutions that improve user experience, accessibility, and system performance. Proficient in modern frameworks, backend architectures, and database management, with a proven ability to enhance system efficiency and user satisfaction. Adept at collaborating in agile environments, leveraging strong problem-solving skills and attention to detail to deliver high-quality, scalable software solutions.
 
 - 👀 I’m interested in Backend and ML/AI profiles.
 - 💞️ I’m looking to collaborate on whatever you need, no doubt in contact me.
-- 📫 How to reach me, see my portfolio and follow me.
-
 
 ## Contact me
 
