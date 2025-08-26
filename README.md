@@ -28,7 +28,9 @@ Software developer with several years of experience in full-stack development, d
 * LinkedIn - [Daniel Granados](https://www.linkedin.com/in/dannielf-devsoftware/)
 
 <!-- GitHub Readme Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielF&layout=compact&theme=dark&hide_border=true&langs_count=8)
+[![DannielF's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannielF&show=reviews&show_icons=true&theme=codeSTACKr&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielF&layout=compact&theme=codeSTACKr&hide_border=true&langs_count=8)
 
 <!---
 DannielF/DannielF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
