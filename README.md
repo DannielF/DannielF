@@ -28,11 +28,8 @@ Software developer with several years of experience in full-stack development, d
 * LinkedIn - [Daniel Granados](https://www.linkedin.com/in/dannielf-devsoftware/)
 
 <!-- GitHub Readme Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielF&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielF&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-![DannielF's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannielF&show_icons=true)
-
-[![DannielF's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannielF)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 DannielF/DannielF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
