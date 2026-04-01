@@ -28,5 +28,3 @@ I'm a software developer with experience building full-stack solutions that impr
 ### 📫 Contact
 
 - LinkedIn: [Daniel Granados](https://www.linkedin.com/in/dannielf-devsoftware/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielF&layout=compact&theme=codeSTACKr&hide_border=true&langs_count=8)
